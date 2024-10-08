@@ -2,7 +2,7 @@
 <html lang="ca">
 <head>
     <meta charset="UTF-8">
-    <title>Exemple arrays</title>
+    <title>ExempleArrays</title>
 </head>
 <body>
     <?php
